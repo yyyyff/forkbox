@@ -3,6 +3,11 @@
   "wallpaper": "https://gao.chuqiuyu.tk",
   "lives": [
     {
+      "name": "Adult",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/yyyyff/forkbox/main/Adult.m3u"
+    },
+    {
       "name": "直播",
       "type": 0,
       "url": "https://raw.githubusercontent.com/yyyyff/forkbox/main/adult.txt"
