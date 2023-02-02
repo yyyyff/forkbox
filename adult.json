@@ -1,11 +1,11 @@
 {
-  "spider": "https://gitee.com/msputup/cat/raw/master/custom_spider.jar;md5;4971e3aee0e802323001771e44bb1a87",
+  "spider": "https://raw.githubusercontent.com/yyyyff/forkbox/main/custom_spider.jar;md5;4971e3aee0e802323001771e44bb1a87",
   "wallpaper": "https://gao.chuqiuyu.tk",
   "lives": [
     {
       "name": "直播",
       "type": 0,
-      "url": "https://gitee.com/msputup/cat/raw/master/adult.txt"
+      "url": "https://raw.githubusercontent.com/yyyyff/forkbox/main/adult.txt"
     }
   ],
   "sites": [
@@ -20,7 +20,7 @@
       "ext": {
         "drives": [
           {
-            "name": "木偶",
+            "name": "9T",
             "server": "https://drive.9t.ee"
           }
         ]
